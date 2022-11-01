@@ -12,42 +12,26 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        
+      <img src='logo.jpg'></img>
+        
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          CLEAR MEN <a href="https://nextjs.org"> ANTICASPA </a>
         </h1>
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
+        <p>CLEAR é expert nos cuidados com o couro cabeludo e no tratamento da caspa, realizando constantes investimentos em tecnologia e pesquisas com o consumidor. Esses diferenciais fazem de CLEAR a principal marca do mercado anticaspa brasileiro líder do segmento. Sua exclusiva e avançada tecnologia, atua no combate à caspa desde a primeira lavagem. Sua fórmula com vitaminas e minerais, atua profundamente no couro cabeludo e cabelo, prevenindo sintomas como coceira, quebra e ressecamento, proporcionando fios saudáveis e bonitos. A marca possui em seu portfólio linhas desenvolvidas para homens e mulheres.</p>
+
+       
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="./contato" className={styles.card}>
+            <h2> Contato &rarr;</h2>
+            <p> Acesse aqui. </p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
-            className={styles.card}
-          >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h2>Deploy &rarr;</h2>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
+          <a href="./produtos" className={styles.card}>
+            <h2> NOSSOS PRODUTOS  &rarr;</h2>
+            <p> Acesse aqui.</p>
           </a>
         </div>
       </main>
