@@ -16,10 +16,10 @@ export default function Home() {
       <img src='logo.jpg'></img>
         
         <h1 className={styles.title}>
-          CLEAR MEN <a href="https://nextjs.org"> ANTICASPA </a>
+          SUPREME <a href="./users"> STORE </a>
         </h1>
 
-        <p>CLEAR é expert nos cuidados com o couro cabeludo e no tratamento da caspa, realizando constantes investimentos em tecnologia e pesquisas com o consumidor. Esses diferenciais fazem de CLEAR a principal marca do mercado anticaspa brasileiro líder do segmento. Sua exclusiva e avançada tecnologia, atua no combate à caspa desde a primeira lavagem. Sua fórmula com vitaminas e minerais, atua profundamente no couro cabeludo e cabelo, prevenindo sintomas como coceira, quebra e ressecamento, proporcionando fios saudáveis e bonitos. A marca possui em seu portfólio linhas desenvolvidas para homens e mulheres.</p>
+        <p>SUPREME STORE é expert nos cuidados com a moda, realizando constantes investimentos em novos vestuários da moda</p>
 
        
 
